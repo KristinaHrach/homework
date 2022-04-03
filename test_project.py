@@ -8,3 +8,4 @@ volume3 = 4 / 3 * math.pi * radius3 ** 3
 sum1 = volume1 + volume2 
 all_sum = sum1 + volume3
 print(all_sum)
+density_of_snow = 0.7
