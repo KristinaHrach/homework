@@ -6,3 +6,4 @@ volume1 = 4 / 3 * math.pi * radius1 ** 3
 volume2 = 4 / 3 * math.pi * radius2 ** 3
 volume3 = 4 / 3 * math.pi * radius3 ** 3
 sum1 = volume1 + volume2 
+all_sum = sum1 + volume3
