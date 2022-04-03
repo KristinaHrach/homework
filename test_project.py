@@ -9,4 +9,5 @@ sum1 = volume1 + volume2
 all_sum = sum1 + volume3
 print(all_sum)
 density_of_snow = 0.7
-mass = density * volume
+mass = density_of_snow * all_sum
+print(mass)
